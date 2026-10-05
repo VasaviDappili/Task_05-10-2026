@@ -1,6 +1,7 @@
 # Task_05-10-2026
 
 # Swag Labs
+
 ## Code
 ```
 from selenium import webdriver
@@ -24,7 +25,9 @@ input("Press Enter to close the browser...")
 
 driver.quit()
 ```
+
 ## Output
+
 <img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/96637662-e7f3-4720-a1f4-9f013bbbda02" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7da31f5e-5d16-4d60-88ba-35953b2c56e5" />
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/f275bc4e-0029-43b1-aea5-7b34c92397a2" />
@@ -38,6 +41,7 @@ driver.quit()
 
 
 # Flipcart Login_Page
+
 ## Code
 ```
 from selenium import webdriver
@@ -108,7 +112,9 @@ input("Complete the login. Press ENTER when you want to close Chrome...")
 
 driver.quit()
 ```
+
 ## Output
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6065cb32-4072-425a-8238-ca0ddf3c9225" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a59cb77-2940-4f9a-8a05-6422b05fcdcf" />
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b1150ba9-1135-421b-b637-9a0b305a0926" />
